@@ -6,6 +6,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+
 public class WordleSolver {
     private static List<String> ignoreWords = new ArrayList<>();
     private static List<String> board = new ArrayList<>();
